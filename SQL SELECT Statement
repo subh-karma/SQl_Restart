@@ -1,0 +1,6 @@
+SELECT CustomerName, City FROM Customers;
+SELECT column1, column2, ...
+FROM table_name;
+Here, column1, column2, ... are the field names of the table you want to select data from.
+
+The table_name represents the name of the table you want to select data from.
