@@ -1,0 +1,11 @@
+SELECT MIN(Price)
+FROM Products;
+
+
+SELECT MIN(Price)
+FROM Products;
+
+
+
+SELECT MIN(Price)
+FROM Products;
