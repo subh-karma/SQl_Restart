@@ -1,0 +1,14 @@
+SELECT CustomerID AS ID
+FROM Customers;
+
+
+SELECT CustomerID ID
+FROM Customers;
+
+
+SELECT column_name AS alias_name
+FROM table_name;
+
+
+SELECT column_name(s)
+FROM table_name AS alias_name;
