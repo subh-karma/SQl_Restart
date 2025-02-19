@@ -4,3 +4,7 @@ CREATE TABLE table_name (
     column3 datatype,
    ....
 );
+ALTER TABLE Persons
+ALTER COLUMN Age int NOT NULL;
+ALTER TABLE Persons
+ALTER COLUMN Age int NOT NULL;
