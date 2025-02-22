@@ -15,3 +15,5 @@ INNER JOIN Categories ON Products.CategoryID = Categories.CategoryID;
 
 SELECT * FROM Customers;
 
+SELECT * FROM Customers
+WHERE NOT Country = 'Spain';
