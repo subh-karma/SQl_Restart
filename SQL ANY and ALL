@@ -16,3 +16,4 @@ WHERE ProductID = ANY
   (SELECT ProductID
   FROM OrderDetails
   WHERE Quantity = 10);
+Create LC24FEB250.py
