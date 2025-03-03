@@ -4,3 +4,9 @@ CREATE TABLE table_name (
     column3 datatype constraint,
     ....
 );
+CREATE TABLE Student (
+    Name CHAR constraint,
+    Roll_No INT constraint,
+    Number INT constraint,
+    Marks Float constraint
+);
