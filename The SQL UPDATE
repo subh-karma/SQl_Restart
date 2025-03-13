@@ -15,3 +15,7 @@ WHERE Country='Mexico';
 
 UPDATE Customers
 SET ContactName='Juan';
+
+SET ContactName='Juan';
+
+
