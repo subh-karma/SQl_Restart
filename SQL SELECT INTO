@@ -17,3 +17,6 @@ FROM Customers;
 
 
 Select * from ;
+
+
+SELECT * INTO CustomersBackup2017
