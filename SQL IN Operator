@@ -8,3 +8,7 @@ WHERE column_name IN (value1, value2, ...);
 
 SELECT * FROM Customers
 WHERE Country NOT IN ('Germany', 'France', 'UK');
+
+SELECT * FROM Customers
+WHERE Country NOT IN ('Germany', 'France', 'UK');
+
