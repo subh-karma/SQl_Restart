@@ -7,5 +7,5 @@ FROM Products;
 
 
 
-SELECT MIN(Price)
+SELECT MAX(Price)
 FROM Products;
