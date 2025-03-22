@@ -18,3 +18,5 @@ FROM table_name AS alias_name;
 # x 
 
 SELECT CUSTOMER_ID AS ID;
+SELECT column_name(s)
+FROM table_name AS niga;
