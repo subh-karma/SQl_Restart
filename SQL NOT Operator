@@ -9,3 +9,7 @@ WHERE NOT condition
 
 SELECT * FROM Customers
 WHERE CustomerName NOT LIKE 'A%'
+
+SELECT * FROM 
+TABLE KIDS 
+WHERE MARKS > 65 ;
