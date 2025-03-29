@@ -6,3 +6,7 @@ DELETE FROM table_name WHERE condition;
 
 DELETE FROM table_name;
 
+
+Delete from student where student_marks > 29;
+
+
