@@ -4,3 +4,4 @@ CREATE TABLE Persons (
     FirstName varchar(255) NOT NULL,
     Age int
 );
+    ID int NOT NULL,
