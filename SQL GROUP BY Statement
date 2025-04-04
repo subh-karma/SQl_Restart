@@ -6,8 +6,6 @@ ORDER BY column_name(s);
 
 
 SELECT COUNT(CustomerID), Country
-FROM Customers
-GROUP BY Country;
 
 SELECT COUNT(DAta_id),County 
 from Hospital
