@@ -2,6 +2,6 @@ DROP DATABASE databasename;
 
 
 DROP DATABASE student;
-
+DROP DATABASE PATERNS;
 
 
