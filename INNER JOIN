@@ -2,7 +2,6 @@ SELECT ProductID, ProductName, CategoryName
 FROM Products
 INNER JOIN Categories ON Products.CategoryID = Categories.CategoryID;
 
-
 SELECT column_name(s)
 FROM table1
 INNER JOIN table2
