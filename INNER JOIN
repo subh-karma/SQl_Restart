@@ -10,6 +10,8 @@ ON table1.column_name = table2.column_name;
 SELECT * FROM Customers
 WHERE NOT Country = 'Spain';
 
+
+
 SELECT STUDENT(S)
 FROM FAIL 
 INNER JOIN COACHING 
