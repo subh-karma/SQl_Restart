@@ -13,8 +13,8 @@ CREATE TABLE Student (
 );
 
 
-DDL
-DML
-TCL
-DQL
-DCL
+DDL defination
+DML manupulation
+TCL control
+DQL  querry
+DCL transactionl control 
