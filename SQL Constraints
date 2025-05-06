@@ -11,3 +11,10 @@ CREATE TABLE Student (
     Number INT constraint,
     Marks Float constraint
 );
+
+
+DDL
+DML
+TCL
+DQL
+DCL
