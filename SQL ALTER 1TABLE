@@ -6,6 +6,8 @@ ALTER TABLE Customers
 ADD Email varchar(255);
 SELECT * FROM C ustomers
 
+
+
 WHERE NOT Country = 'Spain';
  
 
