@@ -3,6 +3,8 @@
 ACID 
  atomicity, consistency , isolation,    and durability (ACID)
 55
+01
+
 
 
 SELECT * FROM MESH;
