@@ -5,5 +5,7 @@ ADD Email varchar(255);
 SELECT * FROM C ustomer
 
 WHERE NOT Country = 'Spain';
- 
+
+
+
 
