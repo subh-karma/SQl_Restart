@@ -3,6 +3,7 @@ ADD column_name datatype;
 ALTER TABLE Customers
 ADD Email varchar(255);
 SELECT * FROM C ustomer
+4
 
 WHERE NOT Country = 'Spain';
 
